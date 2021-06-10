@@ -13,9 +13,12 @@
 <!-- BEGIN TOC -->
 
 - handlers
+  - [toggle-active.js](#srchandlerstoggle-activejs)
+  - [toggle-open.js](#srchandlerstoggle-openjs)
 - init
   - [index.js](#srcinitindexjs)
 - listeners
+  - [toggle-class.js](#srclistenerstoggle-classjs)
 - logic
 - procedures
 - [data.js](#srcdatajs)
@@ -27,6 +30,30 @@
 ---
 
 # /handlers
+
+<details><summary><a href="../src/handlers/toggle-active.js" id="srchandlerstoggle-activejs">src/handlers/toggle-active.js</a></summary>
+
+<a name="toggleActive"></a>
+
+## toggleActive
+
+| Param | Type               | Description                                          |
+| ----- | ------------------ | ---------------------------------------------------- |
+| e     | <code>Event</code> | The event triggered when the user clicks the button. |
+
+</details>
+
+<details><summary><a href="../src/handlers/toggle-open.js" id="srchandlerstoggle-openjs">src/handlers/toggle-open.js</a></summary>
+
+<a name="toggleOpen"></a>
+
+## toggleOpen
+
+| Param | Type               | Description                                          |
+| ----- | ------------------ | ---------------------------------------------------- |
+| e     | <code>Event</code> | The event triggered when the user clicks the button. |
+
+</details>
 
 ---
 
@@ -47,6 +74,10 @@
 ---
 
 # /listeners
+
+<details><summary><a href="../src/listeners/toggle-class.js" id="srclistenerstoggle-classjs">src/listeners/toggle-class.js</a></summary>
+
+</details>
 
 ---
 
